@@ -1,0 +1,4 @@
+django
+djangorestframework
+django-jet
+django-reversion

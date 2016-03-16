@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "engines": {
+    "node": "5.7.0"
+  },
+  "scripts": {
+    "test": "karma start test/config/karma.conf.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-core": "2.4.1",
+    "karma": "0.13.21",
+    "karma-chrome-launcher": "0.2.2",
+    "karma-firefox-launcher": "0.1.7",
+    "karma-jasmine": "0.2.2",
+    "karma-jasmine-html-reporter": "0.2.0"
+  }
+}

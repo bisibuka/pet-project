@@ -1,0 +1,6 @@
+.idea
+todomvc/.idea
+angular/.idea
+*.pyc
+todomvc/env
+angular/node_modules
